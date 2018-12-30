@@ -24,5 +24,5 @@
   $('body').scrollspy({
     target: '#sideNav'
   });
-
+  $('.tooltip-class').tooltip();
 })(jQuery); // End of use strict
