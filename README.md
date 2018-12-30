@@ -1,0 +1,2 @@
+# staticresume
+Dilip Resume
